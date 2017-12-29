@@ -41,14 +41,14 @@ App({
     })
   },
   globalData: {
-    urlpath: "https://xcx.yzw0525.com",
+    urlpath: "https://xcx.xxxx.com",
     VERIFICATION: "yvQPqgsN8KhzWuph",
     limit: 5,
     userInfo: {},
     openid: null,
     sexarray: ['-', '男', '女'],
     satisfied: ['satisfied1', 'satisfied2', 'satisfied3'],
-    yebotel: '0510-85889555',
+    yebotel: 'xxx-xxxxxxxx',
   },
   formatTime: function (date) {
     var year = date.getFullYear()
