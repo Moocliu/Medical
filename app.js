@@ -50,7 +50,9 @@ App({
     satisfied: ['satisfied1', 'satisfied2', 'satisfied3'],
     yebotel: 'xxx-xxxxxxxx',
   },
-  formatTime: function (date) {
+	//我想注释一下,我第二次注释了一次
+  
+	formatTime: function (date) {
     var year = date.getFullYear()
     var month = date.getMonth() + 1
     var day = date.getDate()
